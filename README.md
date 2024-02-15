@@ -3,7 +3,7 @@
 
 ### 📖Resumo
 
-Terminando meu ensino médio na escola Santos Dumont, com o melhor desempenho em sala de aula, tenho experiência como Suporte Técnico em Manutenção do Sistema na empresa Sistema Escudo, fui promovido para que QA Analyst onde atuo atualmente, fiz curso de Desenvolvimento de Sistema na ProWay, também curso atualmente o Entra21, Tenho conhecimento em JavaScript - jQuery - Ajax, HTML, CSS - Bootstrap - Materialize, MySQL, Python - Django, PHP tendo foco na linguagem C# - ASP.NET.
+Ensino médio completo, com o melhor desempenho em sala de aula, tenho experiência como Suporte Técnico em Manutenção do Sistema na empresa Sistema Escudo, fui promovido para que QA Analyst onde atuo atualmente, fiz curso de Desenvolvimento de Sistema na ProWay, também curso atualmente o Entra21, Tenho conhecimento em JavaScript - jQuery - Ajax, HTML, CSS - Bootstrap - Materialize, MySQL, Python - Django, PHP tendo foco na linguagem C# - ASP.NET - .NET - EF Core - API.
 
 👩‍💻Sou QA Analyst;
 
